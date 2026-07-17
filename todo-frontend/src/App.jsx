@@ -1,8 +1,7 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 
-const API = 'http://localhost:3000'
-
+const API = 'https://api.soumyajain.online'
 const cardColors = [
   'bg-primary-fixed-dim/30',
   'bg-secondary-container/20',
